@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421909503022",
+    "firebase_url": "https://platformxchat-3b5da.firebaseio.com",
+    "project_id": "platformxchat-3b5da",
+    "storage_bucket": "platformxchat-3b5da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421909503022:android:bdb5ebf796545c2a",
+        "android_client_info": {
+          "package_name": "com.techdrop.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421909503022-12c5hjfkbfg8vi3qfev8hgvpak97i70k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techdrop.pushnotification",
+            "certificate_hash": "882adcf8f5f350445ff68f758ca75a0adad181e9"
+          }
+        },
+        {
+          "client_id": "421909503022-qquqnq0hujbshgee86mlietqohihhdet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ufEp5HFFU9wUns12PCts4BcKN3Vffq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421909503022-qquqnq0hujbshgee86mlietqohihhdet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
